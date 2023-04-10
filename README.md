@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaypeg-dev
 - 👀 I’m interested in travel, culture sport and IT
-- 🌱 I’m currently learning Chinese and Phyton
+- 🌱 I’m currently learning Chinese and Python
 - 💞️ I’m looking to collaborate on Automotive API's
 - 📫 Reach me on twitter
 
